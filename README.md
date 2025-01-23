@@ -1,5 +1,5 @@
 
-# Book Search and Save App
+# myLibrary Book Search App
 
 ## Description
 
