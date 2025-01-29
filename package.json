@@ -9,9 +9,9 @@
     "main": "server/server.js",
     "scripts": {
       "start": "node server/server.js",
-      "start:dev": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
-      "install": "cd server && npm i && cd ../client && npm i",
-      "build": "cd client && npm run build"
+      "start:dev": "concurrently \"cd server && npm run watch\" \"cd Client && npm start\"",
+      "install": "cd server && npm i && cd ../Client && npm i",
+      "build": "cd Client && npm run build"
     },
     "keywords": [],
     "author": "Michael Cirillo",
