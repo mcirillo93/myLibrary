@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a full-stack MERN (MongoDB, Express.js, React, Node.js) application that allows users to search for books using the Google Books API and save their favorite books to their account. The app uses Apollo Client for GraphQL integration and provides a user-friendly interface for seamless navigation between searching and saving books.
+This is a full-stack MERN (MongoDB, Express.js, React, Node.js) application that allows users to search for books using the Google Books API and save their favorite books to their account. This application has been repurposed to use Apollo Client for GraphQL integration and provides a user-friendly interface for seamless navigation between searching and saving books.
 
 ---
 
